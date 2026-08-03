@@ -1,0 +1,6 @@
+{
+  "name": "dailyhydra",
+  "description": "A privacy-focused, offline-first hydration tracker with a premium Material 3 interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
