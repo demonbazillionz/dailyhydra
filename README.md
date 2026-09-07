@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/logo/aqora_logo.jpg" width="160" alt="Aqora logo"/>
+  <img src="assets/logo/aqora_logo.jpg" width="160" alt="aqora logo"/>
 </p>
 
-<h1 align="center">Aqora</h1>
+<h1 align="center">aqora</h1>
 
 <p align="center">
   Privacy-focused • Offline-first • Ultra-fast Hydration Tracking
@@ -16,15 +16,18 @@
 
 ## 💧 Overview
 
-**Aqora** is a privacy-focused hydration tracker for Android built to make tracking your daily water intake **fast, effortless, and completely private**.
+**aqora** is a privacy-focused hydration tracker for Android built to make tracking your daily water intake **fast, effortless, and completely private**.
 
-Track your water intake, monitor your daily hydration goal, review your history, create custom drinking vessels, and stay on top of your hydration — all through a clean and modern Material 3 interface.
+Track your water intake, monitor your daily hydration goal, review your history, create custom cups and containers, and stay on top of your hydration through a clean and modern Material 3 interface.
 
-Aqora is designed around one simple principle:
+aqora is built around one simple principle:
 
 > **Your hydration data belongs to you.**
 
-There are no accounts, no advertisements, no trackers, and no cloud dependency.
+No accounts.
+No advertisements.
+No trackers.
+No cloud dependency.
 
 Your data stays on your device.
 
@@ -36,7 +39,7 @@ Your data stays on your device.
 * ⚡ **Quick-add hydration shortcuts**
 * 🥤 **Custom cups and containers**
 * 🎯 **Daily hydration goals**
-* 📊 **Real-time progress tracking**
+* 📊 **Real-time hydration progress**
 * 📈 **Historical hydration insights**
 * 🕒 **Daily intake timeline**
 * ✏️ **Edit and delete intake entries**
@@ -66,9 +69,9 @@ Your data stays on your device.
 
 ## 🔒 Privacy First
 
-Privacy isn't an optional feature in Aqora — **it's a core design principle**.
+Privacy isn't an optional feature in aqora — **it's a core design principle**.
 
-Aqora does not require or use:
+aqora does not require or use:
 
 * ❌ User accounts
 * ❌ Advertisements
@@ -80,18 +83,18 @@ Aqora does not require or use:
 
 ### Your data stays on your device.
 
-Aqora stores your hydration information locally and does not require an online service to function.
+aqora stores your hydration information locally and does not require an online service to function.
 
 ---
 
 ## 📶 Offline First
 
-Aqora is designed to work **without an internet connection**.
+aqora is designed to work **without an internet connection**.
 
 You can:
 
 * Log water offline
-* Track your daily goal offline
+* Track your daily hydration goal offline
 * View your hydration history offline
 * Use custom cups offline
 * Access your hydration data without a network connection
@@ -102,7 +105,7 @@ No internet connection is required for the core hydration experience.
 
 ## 🎨 Design
 
-Aqora uses **Material 3** to create a modern Android experience while maintaining its own minimal, water-inspired visual identity.
+aqora uses **Material 3** to create a modern Android experience while maintaining its own minimal, water-inspired visual identity.
 
 The interface focuses on:
 
@@ -117,7 +120,7 @@ The interface focuses on:
 
 The goal is simple:
 
-**Open Aqora → see your hydration → log water.**
+**Open aqora → see your hydration → log water.**
 
 ---
 
@@ -137,7 +140,7 @@ The goal is simple:
 
 Download the latest APK from the **Releases** section and install it on your Android device.
 
-No account or internet connection is required to use Aqora.
+No account or internet connection is required to use aqora.
 
 ---
 
@@ -150,23 +153,21 @@ git clone https://github.com/demonbazillionz/aqora.git
 cd aqora
 ```
 
-Open the project in **Android Studio**, allow Gradle to synchronize, and run the application on an Android device or emulator.
-
 ---
 
 ## 🤝 Contributing
 
-Aqora is open source.
+aqora is open source.
 
 Contributions, bug reports, feature ideas, and improvements are welcome.
 
-If you find a bug or have an idea for improving Aqora, feel free to open an issue or submit a pull request.
+If you find a bug or have an idea for improving aqora, feel free to open an issue or submit a pull request.
 
 ---
 
 ## 📄 License
 
-Aqora is licensed under the **GNU General Public License v3.0 (GPLv3)**.
+aqora is licensed under the **GNU General Public License v3.0 (GPLv3)**.
 
 See [`LICENSE`](LICENSE) for the complete license text.
 
@@ -179,5 +180,5 @@ Created by **demonbazillionz**
 ---
 
 <p align="center">
-  <strong>Aqora — Hydration, without the noise.</strong>
+  <strong>aqora — Hydrate. Track. Thrive.</strong>
 </p>
