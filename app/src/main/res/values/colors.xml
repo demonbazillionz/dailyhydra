@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Water Theme / Widget colors -->
+    <color name="widget_background">#0a1526</color> <!-- Sophisticated deep aquatic dark slate -->
+    <color name="widget_water_blue">#4FC3F7</color> <!-- Hydration glowing primary light blue -->
+    <color name="widget_water_light_blue">#00E5FF</color> <!-- Neon water light glow -->
+    <color name="widget_text_primary">#E0F7FA</color> <!-- High contrast clean ice blue -->
+    <color name="widget_text_secondary">#80DEEA</color> <!-- Secondary supportive aqua -->
+    <color name="widget_btn_bg">#122b4d</color> <!-- Slightly lighter premium dark blue for button background -->
+</resources>
